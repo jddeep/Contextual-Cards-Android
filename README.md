@@ -5,6 +5,6 @@ APK: https://github.com/jddeep/Contextual-Cards-Android/blob/master/app-debug.ap
 
 ## Screenshots
 
-<img src="https://imgur.com/MogUzSD" width=300 /> <img src="https://imgur.com/Qgunven" width=300 /> <img src="https://imgur.com/UqROKB9" width=300 />
+<img src="https://i.imgur.com/MogUzSD.jpg" width=300 /> <img src="https://i.imgur.com/Qgunven.jpg" width=300 /> <img src="https://i.imgur.com/UqROKB9.jpg" width=300 />
 
 
