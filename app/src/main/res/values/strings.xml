@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextualCards</string>
+    <string name="dismiss_now">dismiss now</string>
+    <string name="remind_later">remind later</string>
+    <string name="fampay">fampay</string>
+    <string name="loading">LOADING…</string>
+    <string name="no_data">No Data!</string>
+</resources>
